@@ -17,7 +17,7 @@ int main() {
         precio +=136;
         nombrzona="Preferencial";
     }else if (zona==4) {
-        precio +=69;
+        precio +=59;
         nombrzona="General";
     }else if (zona<1||zona>4){
         cout<<"intente de nuevo";
