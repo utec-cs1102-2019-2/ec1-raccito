@@ -1,0 +1,5 @@
+C:/Users/Raccito/Desktop/ec1-raccito/semana_6/semana_B/ejercicio_en_clase/cmake-build-debug/CMakeFiles/ejercicio_en_clase.dir
+C:/Users/Raccito/Desktop/ec1-raccito/semana_6/semana_B/ejercicio_en_clase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Raccito/Desktop/ec1-raccito/semana_6/semana_B/ejercicio_en_clase/cmake-build-debug/CMakeFiles/ejercicio_en_clase_e2.dir
+C:/Users/Raccito/Desktop/ec1-raccito/semana_6/semana_B/ejercicio_en_clase/cmake-build-debug/CMakeFiles/ejercicio_en_clase_e3.dir
+C:/Users/Raccito/Desktop/ec1-raccito/semana_6/semana_B/ejercicio_en_clase/cmake-build-debug/CMakeFiles/edit_cache.dir
